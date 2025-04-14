@@ -15,6 +15,11 @@ Este proyecto de Power BI analiza las ventas globales de videojuegos a lo largo 
 - Comparar el rendimiento entre plataformas (PS, Xbox, Nintendo, PC, etc.).
 - Analizar qué géneros son más populares por región.
 
+## 🖼️ Vista Previa
+![Pre-visualizacion](./img/image.png)
+![Ejemplo](./img/image2.png)
+
+
 ## 🛠️ Herramientas Utilizadas
 
 - **Power BI Desktop**

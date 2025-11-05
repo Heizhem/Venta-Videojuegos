@@ -20,7 +20,7 @@ Este proyecto de Power BI analiza las ventas globales de videojuegos a lo largo 
 ![Ejemplo](./img/image2.png)
 
 
-## 🛠️ Herramientas Utilizadas
+## 🛠️ Herramientas Utilizadasa
 
 - **Power BI Desktop**
 - **Power Query** para limpieza y transformación de datos
